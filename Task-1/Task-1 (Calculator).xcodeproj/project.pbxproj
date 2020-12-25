@@ -152,7 +152,8 @@
 				5594E0192592708F00D58DAE /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
+			path = "Task-1";
+			sourceTree = SOURCE_ROOT;
 		};
 		5594E01D2592709000D58DAE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
@@ -289,6 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PR72A5T3A8;
 				INFOPLIST_FILE = "Task-1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +310,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PR72A5T3A8;
 				INFOPLIST_FILE = "Task-1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

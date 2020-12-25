@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "container:/Users/gryar/Desktop/PM-HT3/Task-1/Task-1 (Calculator).xcodeproj">
+      location = "group:/Users/gryar/Desktop/PM-HT3/Task-1/Task-1 (Calculator).xcodeproj">
    </FileRef>
    <FileRef
       location = "group:/Users/gryar/Desktop/PM-HT3/test/Task-1_2 (SizeClasses).xcodeproj">
